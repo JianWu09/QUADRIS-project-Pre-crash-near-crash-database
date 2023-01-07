@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: QUADRIS project pre-crash/near-crash dataset
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Jian
+    family-names: Wu
+    email: jian.wu.2@volvocars.com
+    orcid: 'https://orcid.org/0000-0002-2262-2260'
